@@ -10,6 +10,9 @@ A virtual keyboard for CustomTkinter, making it easy to enter text on a Raspberr
 - **Open Source**: Free to use and modify.
 
 ## Installation
+```bash
+pip install CTkKeyboard
+```
 
 
 ## Example
