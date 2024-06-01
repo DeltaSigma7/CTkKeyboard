@@ -67,5 +67,13 @@ To use CTkKeyboard in your project, follow these steps:
 
 - **Confirm entry**: Hit the "ok" button to confirm the entry, and the keyboard should disappear.
 
+## Credits
 
+Note: Parts of the code in this example are from [CustomTkinter][1]
+
+If you find my code helpful and would like to support me, feel free to buy me a Ko-fi. However, if you don't want to, that's okay too, I won't be mad!
+
+I'm always open to feedback to improve this project further!
+
+[1]: https://github.com/TomSchimansky/CustomTkinter
 
