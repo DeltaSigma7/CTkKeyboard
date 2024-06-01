@@ -1,1 +1,1 @@
-from CTk_Keyboard import keyboard
+from CTkKeyboard import keyboard
