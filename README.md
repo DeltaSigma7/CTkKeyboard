@@ -67,11 +67,21 @@ To use CTkKeyboard in your project, follow these steps:
 
 - **Confirm entry**: Hit the "ok" button to confirm the entry, and the keyboard should disappear.
 
+## Preview
+### Qwerty Upper-Case
+![Example_img](https://github.com/CadamTechnology/CTkKeyboard/assets/171271702/7e71262d-d125-4616-becb-fdabf6a4e076)
+### Qwerty Lower-case
+![Example_img_2](https://github.com/CadamTechnology/CTkKeyboard/assets/171271702/30b4476f-8e2a-4da7-8143-6ea127ba5758)
+### Special Keys
+![Example_img_3](https://github.com/CadamTechnology/CTkKeyboard/assets/171271702/ce14f902-c368-40dc-a0d1-46f7809c05a8)
+
+
+
 ## Credits
 
 Note: Parts of the code in this example are from [CustomTkinter][1]
 
-If you find my code helpful and would like to support me, feel free to buy me a Ko-fi. However, if you don't want to, that's okay too, I won't be mad!
+If you find my code helpful and would like to support me, feel free to buy me a Ko-fi. However, if you don't want to, that's okay too!
 
 I'm always open to feedback to improve this project further!
 
