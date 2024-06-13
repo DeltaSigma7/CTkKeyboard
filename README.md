@@ -18,7 +18,7 @@ pip install CTkKeyboard
 ## Example
 ```python
 import customtkinter as ctk
-from CTk_Keyboard import keyboard
+from CTkKeyboard import keyboard
 
 #Setup Ctk window
 app = ctk.CTk()
